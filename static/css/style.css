@@ -1,0 +1,36 @@
+h1{
+    color:red;
+}
+
+
+nav{
+    background-color: aqua;
+}
+
+.nav-item{
+    background-color: rebeccapurple;
+    padding: 10px;
+    margin: 10px 0;
+    color:white;
+    font-weight: 900;
+    
+}
+
+a{
+    color: white;
+    font-weight: 900;
+}
+
+.caption{
+    border: 5px dotted aqua;
+    width: 300px;
+}
+
+.gallery{
+    width: 900px;
+}
+
+
+.special{
+    font-size: 200%;
+}
