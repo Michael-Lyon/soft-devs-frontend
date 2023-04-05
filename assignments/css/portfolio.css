@@ -1,0 +1,23 @@
+h1{
+    color: hotpink;
+    border-bottom: 5px dotted rebeccapurple;
+}
+
+h4{
+    color: rgb(147, 144, 144);
+    font-weight: 700;
+}
+
+ul{
+    border: 5px solid rebeccapurple;
+    background-color: rgb(224, 220, 220);
+    padding: 25px;
+}
+
+.mail{
+    color: green
+}
+
+.link{
+    color: rgb(255, 102, 0)
+}
