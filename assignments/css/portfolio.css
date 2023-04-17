@@ -1,3 +1,9 @@
+main{
+    width: 500px;
+    margin: 0 auto;
+}
+
+
 h1{
     color: hotpink;
     border-bottom: 5px dotted rebeccapurple;
@@ -15,7 +21,7 @@ ul{
 }
 
 .mail{
-    color: green
+    color: green;
 }
 
 .link{

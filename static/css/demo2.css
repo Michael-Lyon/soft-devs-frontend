@@ -1,0 +1,31 @@
+/* * {
+    margin: 0;
+} */
+
+
+span {
+    background-color: yellow;
+}
+
+strong {
+    color: rebeccapurple;
+}
+
+em {
+    color: rgb(63, 27, 100);
+}
+
+article, aside{
+    border: 2px solid blue;
+}
+
+
+/* article p{
+    border: 5px solid red;
+    margin: 10px;
+} */
+
+
+article p:first-child {
+    font-weight: bold;
+}
